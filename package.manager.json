@@ -1,0 +1,15 @@
+{
+    "version": 1.0019999999999998,
+    "content": [
+        {
+            "refrence": "config.json.scm",
+            "to": ""
+        },
+        {
+            "refrence": "tsconfig.json",
+            "to": ""
+        }
+    ],
+    "name": "ts-merger.type-script",
+    "desc": "sample package for using merger\r\nnext:\r\n- merger app can copy into folder "
+}
